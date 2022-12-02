@@ -1,0 +1,586 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Roboto;
+}
+
+
+
+header, section{
+    overflow-x: hidden;
+}
+
+header a{
+    color:  #6ED57E;
+    font-size: 0.9em;
+}
+
+header{
+    background:  #003334;
+    height: 100vh;
+}
+
+header .nav-item:last-child{
+    padding-right: 7.9em;
+}
+
+header.nav-item{
+    padding: 0.9em;
+}
+
+header .navbar-brand{
+    padding-left: 6.5em;
+}
+
+header .nav-link:hover{
+    color: #003334;
+}
+
+header .row .col-md-5{
+    padding: 7.2vmin 1vmin;
+}
+
+header .row .col-md-7{
+    padding: 25vmin 1vmin;
+    padding-bottom: 35vmin;
+}
+
+header .navbar{
+    height: 70px;
+}
+
+.set{
+    margin-right: 8em;
+    margin-left: 1em;
+    background: #003334;
+    color: white;
+    border: none;
+    height: 40px;
+    width: 152px;
+    border-radius: 8px;
+    font-size: 14px;
+}
+
+.set:hover{
+    background: #6ED57E;
+}
+
+header h1{
+    color: white;
+    font-size: 64px;
+    font-weight: bold;
+    line-height: 96px;
+    margin-left: 120px;
+    margin-top: 200px;
+}
+
+.mg{
+    margin-top: 55px;
+    width: 560px;
+    margin-left: -170px;
+}
+
+.md{
+    z-index: 1;
+    position: absolute;
+    width: 190%;
+    height: 700px;
+    top: 130px;
+    right: 2px;
+}
+
+header .p1{
+    color: white;
+    font-size: 24px;
+    margin-top: 25px;
+    font-weight: 380;
+    margin-left: 120px;
+}
+
+header p{
+    color: #6ED57E;
+    margin-top: 30px;
+    font-size: 20px;
+    margin-left: 120px;
+}
+
+header .second-click{
+    margin-left: 20px;
+}
+
+.second-click, .first-click{
+    margin-left: 120px;
+}
+
+header .second-click:hover{
+    cursor: pointer;
+}
+
+header .first-click:hover{
+    cursor: pointer;
+}
+
+.section-1{
+    padding: 10vmin 0;
+}
+
+.section-1 .pray h1{
+    font-size: 56px;
+    color: #003334;
+    line-height: 48px;
+    text-align: center;
+
+}
+
+
+.section-1 .pray p{
+    font-size: 32px;
+    line-height: 48px;
+    color: #003334;
+    text-align: center;
+    font-weight: 400;
+    margin-bottom: 30px;
+}
+
+ hr{
+    width: 40%;
+    margin: auto;
+}
+
+.phone{
+    padding: 10vmin 0;
+    width: 1800px;
+}
+
+.section-2{
+    padding: 1vmin 0;
+}
+
+.second{
+    text-align: center;
+    font-size: 56px;
+    line-height: 48px;
+    font-weight: 500;
+    margin-bottom: 30px;
+}
+
+.pra p{
+    text-align: center;
+    font-size: 32px;
+    line-height: 48px;
+    font-weight: 400;
+    margin-top: 30px;
+}
+
+
+.cardss img{
+    
+    border-radius: 9%;
+    margin: 0 auto;
+    padding: 6px;
+}
+
+.cardss{
+    border-radius: 0.5em;
+    box-shadow: 0 5px 10px rgba(0,0,0,.2);
+    background: white;
+    width: 20rem;
+}
+
+.cardss-title{
+    font-weight: 700;
+    font-size: 1.8em;
+}
+
+.cardss .card-text{
+    font-size: 16px;
+    padding-top: 5px;
+    font-weight: 430;
+}
+
+
+.input-group{
+    margin-top: 55px;
+}
+
+.input-group .form-control{
+    height: 55px;
+    border-radius:6px;
+    box-shadow: none!important;
+}
+
+.btn{
+    width: 130px;
+}
+
+.btn-success{
+    background: #6ED57E !important;
+    border-radius: 5px !important;
+    box-shadow: none !important;
+}
+
+
+footer{
+    height: 45vh;
+    width: 100%;
+    background: #003334;
+    margin-top: 120px;
+}
+
+.footer-new{
+    margin-top: 55px;
+}
+
+.footer-new p{
+    color: white;
+    margin-left: 55px;
+    font-size: 37px;
+}
+
+.footer-1{
+    text-align: center;
+    color: #6ED57E;
+    font-size: 17px;
+    padding-top: 25px;
+}
+
+.footer-2{
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    
+}
+
+footer hr{
+    width: 100%;
+    background: #6ED57E;
+    margin-top: 40px;
+}
+
+.icon{
+    padding-top: 30px;
+
+}
+
+
+.icon a{
+    padding: 10px;
+    border-radius: 60px;
+    background: #6ED57E;
+    margin: 6px;
+    padding-top: 15px;
+    text-align: center;
+}
+
+.icon i{
+    padding: 5px;
+    list-style-type: none;
+    text-decoration: none;
+    color: #003334;
+}
+
+
+@media(max-width: 768px){
+    header .row .col-md-8 h1{
+        font-size: 40px;
+        line-height: 45px;
+        margin-left: 6vmin;
+    }
+
+    header .row .col-md-8 .p1{
+        font-size: 20px;
+        margin-left: 6vmin;
+        margin-top: 16px;
+    }
+
+
+    header .row .col-md-8 p{
+        font-size: 20px;
+        margin-left: 5.5vmin;
+        margin-top: 13px;
+    }
+
+
+    header .row .col-md-8 .first-click{
+        width: 20%;
+        margin-left: 5vmin;
+    }
+
+    header .row .col-md-8 .second-click{
+        width: 20%;
+    }
+
+    header .navbar-brand img{
+        margin-left: -15.9vmin;
+    }
+
+    header .row .col-md-4 .md{
+       
+        height: 60vmin;
+        margin-top: 40px;
+    }
+
+    header .row .col-md-4 .mg{
+        width: 130%;
+        margin-top: 20vmin;
+        margin-left: -12vmin;
+    }
+
+    .section-1 .row .col-sm-12 .pray h1{
+        font-size: 37px;
+        line-height: 25px;
+    }
+
+    .section-1 .row .col-sm-12 .pray p{
+        font-size: 26px;
+        line-height: 37px;
+    }
+
+    .phone{
+        width: 100%;
+    }
+
+    .section-2 .row .col-sm-12 .pra h1{
+        font-size: 37px;
+        line-height: 25px;
+    }
+
+    .section-2 .row .col-sm-12 .pra .second{
+        font-size: 30px;
+        line-height: 10px;
+    }
+
+    .section-2 .row .col-sm-12 .pra p{
+        font-size: 26px;
+        line-height: 39px;
+    }
+
+    .cardss{
+       width: 13rem;
+    }
+
+    .cardss img{
+        padding: 10px;
+
+    }
+
+    .cardss-title{
+        font-weight: 200;
+        font-size: 0.7em;
+    }
+    
+    .cardss .card-text{
+        font-size: 12px;
+        padding-top: 5px;
+        font-weight: 430;
+    }
+
+    footer{
+        height: 60vh;
+    }
+
+    .footer-new p{
+        font-size: 20px;
+    }
+
+    
+    .input-group .form-control{
+        height: 33px;
+
+    }
+    
+    .btn{
+        width: 110px;
+        height: 33px;
+    }
+}
+
+
+@media(max-width: 1024px){
+    header .row .col-md-8 h1{
+        font-size: 40px;
+        line-height: 50px;
+    }
+
+    header .row .col-md-8 .p1{
+        font-size: 17px;
+        margin-top: 16px;
+    }
+
+    
+    header .row .col-md-8 .first-click{
+        width: 15%;
+    }
+
+    header .row .col-md-8 .second-click{
+        width: 15%;
+    }
+
+
+    header .row .col-md-4 .md{
+       
+        height: 60vmin;
+        margin-top: 20px;
+    }
+
+    header .row .col-md-4 .mg{
+        width: 110%;
+        margin-top: 15vmin;
+        margin-left: -19vmin;
+    }
+
+    .section-1 .row .col-sm-12 .pray h1{
+        font-size: 40px;
+        line-height: 20px;
+    }
+
+    .section-1 .row .col-sm-12 .pray p{
+        font-size: 23px;
+        line-height: 30px;
+    }
+
+    .phone{
+        width: 100%;
+    }
+
+    .section-2 .row .col-sm-12 .pra h1{
+        font-size: 40px;
+        line-height: 25px;
+    }
+
+    
+    .cardss{
+        width: 16rem;
+     }
+
+    .cardss-title{
+        font-weight: 200;
+        font-size: 0.6em;
+    }
+    
+    .cardss .card-text{
+        font-size: 13px;
+        padding-top: 5px;
+        font-weight: 430;
+    }
+
+    footer{
+        height: 58vh;
+    }
+
+    .footer-new p{
+        font-size: 30px;
+    }
+}
+
+
+@media(max-width: 320px){
+    header .row .col-md-8 h1{
+        font-size: 26px;
+        line-height: 35px;
+    }
+
+    header .row .col-md-8 p{
+        font-size: 15px;
+    }
+
+    header .row .col-md-8 .p1{
+        font-size: 12px;
+    }
+
+    
+    header .row .col-md-8 .first-click{
+        width: 30%;
+        padding: 0;
+        margin-left: 20px;
+    }
+
+    header .row .col-md-8 .second-click{
+        width: 30%;
+    }
+
+    
+    header .row .col-md-4 .md{
+       
+        height: 30vmin;
+        margin-top: 10px;
+        width: 50%;
+    }
+
+    header .row .col-md-4 .mg{
+        width: 80%;
+        margin-left: 8vmin;
+    }
+    
+
+    header .navbar-brand img{
+        margin-left: -35vmin;
+    }
+
+    .section-1 .row .col-sm-12 .pray h1{
+        font-size: 25px;
+        line-height: 10px;
+    }
+
+    .section-1 .row .col-sm-12 .pray hr{
+        width: 70%;
+    }
+
+    .section-1 .row .col-sm-12 .pray p{
+        font-size: 15px;
+        line-height: 19px;
+    }
+
+    .section-2 .row .col-sm-12 .pra .second{
+        margin-top: 10px;
+        font-size: 25px;
+        line-height: 2px;
+    }
+
+    .section-2 .row .col-sm-12 .pra hr{
+        width: 70%;
+    }
+
+    .section-2 .row .col-sm-12 .pra p{
+        font-size: 15px;
+        line-height: 19px;
+    }
+
+    .cardss{
+        width: 14rem;
+        margin-left: 33px;
+     }
+
+     .cardss .card-text{
+        font-size: 12px;
+    }
+
+     
+   
+    .footer-new p{
+        font-size: 20px;
+        margin-left: -1px;
+        margin: 0;
+    }
+
+    .footer-1{
+        font-size: 12px;
+    }
+
+    .footer-2{
+        font-size: 13px;
+    }
+
+    footer{
+        height: 70vh;
+    }
+
+    
+header .navbar:hover{
+    cursor: pointer;
+}
+
+    
+
+}
