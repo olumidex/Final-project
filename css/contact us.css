@@ -211,6 +211,26 @@ footer hr{
 
 
 @media(max-width: 320px){
+    
+    .ul-bg{
+        background-color: #003334;
+        height: 40vh;
+        padding: 20px;
+    }
+    
+    .navbar{
+        line-height: 0.5;
+    }
+    
+    .set{
+        margin-left: -2px !important;
+        background: #6ED57E;
+        color: white;
+        font-size: 10px;
+        width: 35%;
+        height: 25px;
+    }
+
     .left-angle h1{
         margin-left: 15px;
         margin-top: 5px;
@@ -281,12 +301,92 @@ footer hr{
 }
 
 
+@media(max-width: 375px){
+     
+    .ul-bg{
+        background-color: #003334;
+        height: 40vh;
+        padding: 20px;
+    }
 
+    .navbar{
+        line-height: 0.5;
+    }
+    
+    .set{
+        margin-left: -2px !important;
+        background: #6ED57E;
+        color: white;
+        font-size: 10px;
+        width: 35%;
+        height: 25px;
+    }
 
+    .left-angle h1{
+        margin-left: 15px;
+        margin-top: 5px;
+        font-size: 15px;
+    }
 
+    .left-angle p{
+        margin-left: 15px;
+        margin-top: -32px;
+        font-size: 12px;
+        line-height: 15px;
+        display: block;
+        width: 50%;
+    }
 
+    .right-angle img{
+        width: 70%;
+        height: 195px;
+        margin-top: -140px;
+        margin-left: 140px;
+    }
 
+    .contact-formm .form-control{
+        height: 50px;
+        margin-top: 50px;
+    }
+    
+    .contact-formm form{
+        margin: 45px;
+    }
+    .contact-formm form .row{
+        margin-bottom: -1%;
+    }
+    
+    .contact-formm .btnContact {
+        width: 100%;
+        margin-top: 30px;
+    }
 
+    .footer-new p{
+        font-size: 20px;
+        margin-left: -1px;
+        margin-top: -30px;
+    }
 
+    .btn{
+        margin-top: -25px;
+    }
+    
+    .input-group .form-control{
+        height: 40px;
+        margin-top: -25px;
+    }
 
+    
+    .footer-1{
+        font-size: 12px;
+        padding-top: 25px;
+    }
+    
+    .footer-2{
+        font-size: 13px;
+    }
 
+    footer{
+        height: 65vh;
+    }   
+}
