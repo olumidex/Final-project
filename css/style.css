@@ -47,7 +47,8 @@ header .row .col-md-7{
 }
 
 header .navbar{
-    height: 70px;
+    box-shadow: 0 5px 10px rgba(0,0,0,.2);
+    height: fit-content;
 }
 
 
@@ -289,9 +290,6 @@ footer hr{
         margin-left: 6vmin;
     }
 
-    .icon-align-right{
-        color: #003334 !important;
-    }
 
     .ul-bg{
         background-color: #003334;
