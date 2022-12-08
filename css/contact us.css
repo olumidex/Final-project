@@ -16,7 +16,7 @@ header a{
 }
 
 .about-header {
-    height: auto;
+    height: 63px;
 }
 
 header .nav-item:last-child{
@@ -45,7 +45,8 @@ header .row .col-md-7{
 }
 
 header .navbar{
-    height: 70px;
+    background: #003334;
+    height: fit-content;
 }
 
 .set{
@@ -428,9 +429,9 @@ footer hr{
     }
 
     .right-angle img{
-        width: 70%;
-        height: 213px;
-        margin-top: -140px;
+        width: 69%;
+        height: fit-content;
+        margin-top: -110px;
         margin-left: 140px;
     }
 
