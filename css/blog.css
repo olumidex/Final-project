@@ -15,7 +15,6 @@ header a{
     font-size: 0.9em;
 }
 
-
 .about-header {
     height: auto;
 }
@@ -598,4 +597,139 @@ footer hr{
     }
 }
 
+@media(max-width: 425px){
+    .ul-bg{
+        background-color: #003334;
+        height: 40vh;
+        padding: 20px;
+    }
+    .navbar{
+        line-height: 0.5;
+    }
+    
+    .set{
+        margin-left: -2px !important;
+        background: #6ED57E;
+        color: white;
+        font-size: 10px;
+        width: 35%;
+        height: 25px;
+    }
 
+    .blog-h1{
+        font-size: 22px !important;
+        text-align: center;
+        line-height: 58px;
+    }
+    
+        .blog-h2{
+        font-size: 20px !important;
+        text-align: center;
+        padding-top: 5px
+    }
+
+    .section-1 .pray p{
+        font-size: 5px !important;
+        line-height: 29px !important;
+    }
+
+     .blog-h1{
+        font-size: 22px !important;
+        text-align: center;
+        line-height: 58px;
+    }
+    
+        .blog-h2{
+        font-size: 20px !important;
+        text-align: center;
+        padding-top: 5px
+    }
+
+    .section-1 .pray p{
+        font-size: 17px !important;
+        line-height: 29px !important;
+    }
+
+    .cardd{
+        margin-left: -170px;
+    }
+
+    .card-deck{
+        width: 100%;
+    }
+
+    .cardd i{
+        font-size: 20px;
+    }
+    
+    .card-title{
+        font-size: 19px;
+    }
+    
+    .card-text{
+        font-size: 14px;
+    }
+
+    .left-section{
+        margin-left: 20px;
+    }
+    
+    .left-section .ked{
+        font-size: 22px;
+    }
+    
+    .left-section p{
+        font-size: 15px;
+    }
+
+    .up img{
+        width: 90%;
+        height: 50vh;
+        padding-bottom: 12px;
+        padding-top: 12px;
+    }
+
+    .section-4{
+        padding: 9vmin 0;
+    }
+
+    .card-right{
+        margin-top: -1px;
+        margin-left: -51px;
+    }
+
+    .cards{
+        width: 60%;
+        height: 55vh;
+        margin-left: 100px;
+    }
+
+    .footer-new p{
+        font-size: 20px;
+        margin-left: -1px;
+        margin-top: -30px;
+    }
+
+    .btn{
+        margin-top: -25px;
+    }
+    
+    .input-group .form-control{
+        height: 40px;
+        margin-top: -25px;
+    }
+
+    
+    .footer-1{
+        font-size: 12px;
+        padding-top: 25px;
+    }
+    
+    .footer-2{
+        font-size: 13px;
+    }
+
+    footer{
+        height: 61vh;
+    }
+}
