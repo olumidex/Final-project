@@ -289,6 +289,30 @@ footer hr{
         margin-left: 6vmin;
     }
 
+    .icon-align-right{
+        color: #003334 !important;
+    }
+
+    .ul-bg{
+        background-color: #003334;
+        height: 40vh;
+        padding: 20px;
+    }
+
+
+    .navbar{
+        line-height: 0.5;
+    }
+    
+    .set{
+        margin-left: -2px !important;
+        background: #6ED57E;
+        color: white;
+        font-size: 10px;
+        width: 35%;
+        height: 25px;
+    }
+
     header .row .col-md-8 .p1{
         font-size: 20px;
         margin-left: 6vmin;
@@ -406,6 +430,10 @@ footer hr{
         padding: 20px;
     }
 
+    .icon-align-right{
+        color: #003334 !important;
+    }
+
     .navbar{
         line-height: 0.5;
     }
@@ -502,6 +530,10 @@ footer hr{
         background-color: #003334;
         height: 40vh;
         padding: 20px;
+    }
+
+    .icon-align-right{
+        color: #003334 !important;
     }
 
     .navbar{
@@ -632,6 +664,10 @@ header .navbar:hover{
         padding: 20px;
     }
 
+    .icon-align-right{
+        color: #003334 !important;
+    }
+
     .navbar{
         line-height: 0.5;
     }
@@ -757,6 +793,10 @@ header .navbar:hover{
         background-color: #003334;
         height: 40vh;
         padding: 20px;
+    }
+
+    .icon-align-right{
+        color: #003334 !important;
     }
 
     .navbar{
