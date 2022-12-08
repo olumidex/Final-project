@@ -16,7 +16,7 @@ header a{
 }
 
 .about-header {
-    height: auto;
+    height: 63px;
 }
 
 header .nav-item:last-child{
@@ -45,7 +45,8 @@ header .row .col-md-7{
 }
 
 header .navbar{
-    height: 70px;
+    background: #003334;
+    height: fit-content;
 }
 
 .set{
@@ -606,7 +607,7 @@ footer hr{
     .navbar{
         line-height: 0.5;
     }
-    
+
     .set{
         margin-left: -2px !important;
         background: #6ED57E;
@@ -700,8 +701,8 @@ footer hr{
 
     .cards{
         width: 60%;
-        height: 55vh;
-        margin-left: 100px;
+        height: fit-content;
+        margin-left: 115px;
     }
 
     .footer-new p{
