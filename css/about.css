@@ -543,13 +543,62 @@ footer hr{
 }
 
 
+@media(max-width: 425px){
+    .ul-bg{
+        background-color: #003334;
+        height: 40vh;
+        padding: 20px;
+    }
+
+    .navbar{
+        line-height: 0.5;
+    }
+    
+    .set{
+        margin-left: -2px !important;
+        background: #6ED57E;
+        color: white;
+        font-size: 10px;
+        width: 35%;
+        height: 25px;
+    }
 
 
+    .section-1 .row .col-sm-12 .pray h1{
+        font-size: 34px;
+        line-height: 25px;
+    }
 
+    .section-1 .row .col-sm-12 .pray p{
+        font-size: 15px;
+        line-height: 23px;
+    }
 
+    .section-2 .row .col-sm-12 .pra .second{
+        font-size: 34px;
+        line-height: 25px;
+    }
 
+    .section-2 .row .col-sm-12 .pra p{
+        font-size: 15px;
+        line-height: 23px;
+    }
 
+    .footer-new p{
+        font-size: 18px;
+        margin-left: -1px;
+        margin: 0;
+    }
 
+    .footer-1{
+        font-size: 12px;
+    }
 
+    .footer-2{
+        font-size: 12px;
+    }
 
-
+    footer{
+        height: 65vh;
+    }
+}
