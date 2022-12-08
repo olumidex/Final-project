@@ -20,6 +20,7 @@ header{
     height: 100vh;
 }
 
+
 header .nav-item:last-child{
     padding-right: 7.9em;
 }
@@ -722,6 +723,133 @@ header .navbar:hover{
     .cardss{
         width: 13rem;
         margin-left: 70px;
+     }
+
+     .cardss .card-text{
+        font-size: 12px;
+    }
+
+     
+   
+    .footer-new p{
+        font-size: 18px;
+        margin-left: -1px;
+        margin: 0;
+    }
+
+    .footer-1{
+        font-size: 12px;
+    }
+
+    .footer-2{
+        font-size: 12px;
+    }
+
+    footer{
+        height: 65vh;
+    }
+
+}
+
+
+@media(max-width: 425px){
+    .ul-bg{
+        background-color: #003334;
+        height: 40vh;
+        padding: 20px;
+    }
+
+    .navbar{
+        line-height: 0.5;
+    }
+
+    .set{
+        margin-left: -2px !important;
+        background: #6ED57E;
+        color: white;
+        font-size: 10px;
+        width: 35%;
+        height: 25px;
+    }
+
+
+    header .row .col-md-8 h1{
+        font-size: 30px;
+        line-height: 40px;
+        margin-left: 6vmin;
+    }
+
+    header .row .col-md-8 .p1{
+        font-size: 14px;
+        margin-left: 6vmin;
+        margin-top: 16px;
+    }
+
+    header .row .col-md-8 p{
+        font-size: 13px;
+        margin-left: 5.5vmin;
+        margin-top: 13px;
+    }
+
+    header .row .col-md-8 .first-click{
+        width: 25%;
+        margin-left: 5vmin;
+    }
+
+    header .row .col-md-8 .second-click{
+        width: 25%;
+    }
+
+    header .navbar-brand img{
+        margin-left: -24.9vmin;
+    }
+
+    header .row .col-md-4 .md{
+        margin-top: 10px;
+        width: 60%;
+    }
+
+    header .row .col-md-4 .mg{
+        width: 85%;
+        margin-top: 10vmin;
+        margin-left: 6vmin;
+    }
+
+    .section-1 .row .col-sm-12 .pray h1{
+        font-size: 34px;
+        line-height: 25px;
+    }
+
+    .section-1 .row .col-sm-12 .pray p{
+        font-size: 15px;
+        line-height: 23px;
+    }
+
+    .section-1 .row .col-sm-12 .pray hr{
+        width: 80%;
+    }
+
+    .phone{
+        width: 100%;
+    }
+
+    .section-2 .row .col-sm-12 .pra .second{
+        font-size: 34px;
+        line-height: 25px;
+    }
+
+    .section-2 .row .col-sm-12 .pra hr{
+        width: 80%;
+    }
+
+    .section-2 .row .col-sm-12 .pra p{
+        font-size: 15px;
+        line-height: 23px;
+    }
+
+    .cardss{
+        width: 13rem;
+        margin-left: 90px;
      }
 
      .cardss .card-text{
