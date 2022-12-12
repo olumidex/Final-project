@@ -1,4 +1,4 @@
-*{
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -6,12 +6,13 @@
 }
 
 
-header, section{
+header,
+section {
     overflow-x: hidden;
 }
 
-header a{
-    color:  #6ED57E;
+header a {
+    color: #6ED57E;
     font-size: 0.9em;
 }
 
@@ -19,37 +20,37 @@ header a{
     height: 63px;
 }
 
-header .nav-item:last-child{
+header .nav-item:last-child {
     padding-right: 7.9em;
 }
 
-header.nav-item{
+header.nav-item {
     padding: 0.9em;
 }
 
-header .navbar-brand{
+header .navbar-brand {
     padding-left: 6.5em;
 }
 
-header .nav-link:hover{
+header .nav-link:hover {
     color: white;
 }
 
-header .row .col-md-5{
+header .row .col-md-5 {
     padding: 7.2vmin 1vmin;
 }
 
-header .row .col-md-7{
+header .row .col-md-7 {
     padding: 25vmin 1vmin;
     padding-bottom: 35vmin;
 }
 
-header .navbar{
+header .navbar {
     background: #003334;
     height: fit-content;
 }
 
-.set{
+.set {
     margin-right: 8em;
     margin-left: 1em;
     background: #6ED57E;
@@ -61,12 +62,12 @@ header .navbar{
     font-size: 14px;
 }
 
-.set:hover{
+.set:hover {
     background: white;
     color: #6ED57E;
 }
 
-.product h1{
+.product h1 {
     margin-left: 617px;
     text-align: center;
     font-size: 45px;
@@ -75,16 +76,16 @@ header .navbar{
 
 /* left section start*/
 
-.product .left{
+.product .left {
     margin-top: 68px;
 
 }
 
-.jump{
+.jump {
     margin-top: 17px;
 }
-   
-.media .jump{
+
+.media .jump {
     margin-left: 180px;
     background: #6ED57E;
     width: 5%;
@@ -95,7 +96,7 @@ header .navbar{
     color: white;
 }
 
-.media .jump-1{
+.media .jump-1 {
     margin-top: 20px;
     margin-left: 180px;
     background: #6ED57E;
@@ -107,7 +108,7 @@ header .navbar{
     color: white;
 }
 
-.media .jump-2{
+.media .jump-2 {
     margin-top: 20px;
     margin-left: 180px;
     background: #6ED57E;
@@ -119,7 +120,7 @@ header .navbar{
     color: white;
 }
 
-.media .jump-9{
+.media .jump-9 {
     margin-top: 20px;
     margin-left: 180px;
     background: #6ED57E;
@@ -131,7 +132,7 @@ header .navbar{
     color: white;
 }
 
-.media .jump-3{
+.media .jump-3 {
     margin-top: 20px;
     margin-left: 180px;
     background: #6ED57E;
@@ -143,7 +144,7 @@ header .navbar{
     color: white;
 }
 
-.media .jump-4{
+.media .jump-4 {
     margin-top: 20px;
     margin-left: 180px;
     background: #6ED57E;
@@ -155,7 +156,7 @@ header .navbar{
     color: white;
 }
 
-.media .jump-5{
+.media .jump-5 {
     margin-top: 20px;
     margin-left: 180px;
     background: #6ED57E;
@@ -168,7 +169,7 @@ header .navbar{
 }
 
 
-.bo p{
+.bo p {
     margin-left: 20px;
     padding: 7px;
     font-size: 24px;
@@ -176,46 +177,46 @@ header .navbar{
     font-weight: 48px;
 }
 
-.product hr{
+.product hr {
     margin-left: 540px;
     width: 55%;
 }
 
 
 
-.right{
+.right {
     margin-top: 130px;
 }
 
-.section-3{
+.section-3 {
     margin-top: 70px;
 }
 
-.section-4{
+.section-4 {
     margin-top: 180px;
 }
 
 
-.product-1 h1{
+.product-1 h1 {
     margin-left: 632px;
     text-align: center;
     font-size: 45px;
     line-height: 48px;
 }
 
-.product-1 hr{
+.product-1 hr {
     margin-left: 540px;
     width: 55%;
 }
 
-.product-1 .left{
+.product-1 .left {
     margin-top: 68px;
 
 }
 
 
 
-.body p{
+.body p {
     margin-right: 9em;
     padding: 7px;
     font-size: 24px;
@@ -223,7 +224,7 @@ header .navbar{
     font-weight: 48px;
 }
 
-.circle{
+.circle {
     margin-right: 10px;
     margin-top: 20px;
     background: #6ED57E;
@@ -236,7 +237,7 @@ header .navbar{
     color: white;
 }
 
-.circle-1{
+.circle-1 {
     margin-right: 10px;
     margin-top: 20px;
     background: #6ED57E;
@@ -249,7 +250,7 @@ header .navbar{
     color: white;
 }
 
-.circle-2{
+.circle-2 {
     margin-right: 10px;
     margin-top: 20px;
     background: #6ED57E;
@@ -262,7 +263,7 @@ header .navbar{
     color: white;
 }
 
-.circle-3{
+.circle-3 {
     margin-right: 10px;
     margin-top: 20px;
     background: #6ED57E;
@@ -276,7 +277,7 @@ header .navbar{
 }
 
 
-.circle-4{
+.circle-4 {
     margin-right: 10px;
     margin-top: 20px;
     background: #6ED57E;
@@ -290,7 +291,7 @@ header .navbar{
 }
 
 
-.circle-5{
+.circle-5 {
     margin-right: 10px;
     margin-top: 20px;
     background: #6ED57E;
@@ -303,7 +304,7 @@ header .navbar{
 }
 
 
-.circle-6{
+.circle-6 {
     margin-right: 10px;
     margin-top: 20px;
     background: #6ED57E;
@@ -315,7 +316,7 @@ header .navbar{
     color: white;
 }
 
-.circle-7{
+.circle-7 {
     margin-right: 10px;
     margin-top: 20px;
     background: #6ED57E;
@@ -327,7 +328,7 @@ header .navbar{
     color: white;
 }
 
-.circle-8{
+.circle-8 {
     margin-right: 10px;
     margin-top: 20px;
     background: #6ED57E;
@@ -340,7 +341,7 @@ header .navbar{
 }
 
 
-.circle-9{
+.circle-9 {
     margin-right: 10px;
     margin-top: 20px;
     background: #6ED57E;
@@ -354,70 +355,70 @@ header .navbar{
 
 
 
-footer{
+footer {
     height: 45vh;
     width: 100%;
     background: #003334;
     margin-top: 160px;
 }
 
-.input-group{
+.input-group {
     margin-top: 55px;
 }
 
-.input-group .form-control{
+.input-group .form-control {
     height: 55px;
-    border-radius:6px;
-    box-shadow: none!important;
+    border-radius: 6px;
+    box-shadow: none !important;
 }
 
-.btn{
+.btn {
     width: 130px;
 }
 
-.btn-success{
+.btn-success {
     background: #6ED57E !important;
     border-radius: 5px !important;
     box-shadow: none !important;
 }
 
-.footer-new{
+.footer-new {
     margin-top: 55px;
 }
 
-.footer-new p{
+.footer-new p {
     color: white;
     margin-left: 55px;
     font-size: 37px;
 }
 
-.footer-1{
+.footer-1 {
     text-align: center;
     color: #6ED57E;
     font-size: 17px;
     padding-top: 25px;
 }
 
-.footer-2{
+.footer-2 {
     text-align: center;
     color: white;
     font-size: 20px;
-    
+
 }
 
-footer hr{
+footer hr {
     width: 100%;
     background: #6ED57E;
     margin-top: 40px;
 }
 
-.icon{
+.icon {
     padding-top: 30px;
 
 }
 
 
-.icon a{
+.icon a {
     padding: 10px;
     border-radius: 60px;
     background: #6ED57E;
@@ -426,7 +427,7 @@ footer hr{
     text-align: center;
 }
 
-.icon i{
+.icon i {
     padding: 5px;
     list-style-type: none;
     text-decoration: none;
@@ -437,18 +438,18 @@ footer hr{
 
 
 
-@media(max-width: 768px){
-    .ul-bg{
+@media(max-width: 768px) {
+    .ul-bg {
         background-color: #003334;
         height: 40vh;
         padding: 20px;
     }
 
-    .navbar{
+    .navbar {
         line-height: 0.5;
     }
-    
-    .set{
+
+    .set {
         margin-left: -2px !important;
         background: #6ED57E;
         color: white;
@@ -457,69 +458,69 @@ footer hr{
         height: 25px;
     }
 
-   .product h1{
-    margin-left: 180px;
-    font-size: 40px;
-    width: 100%;
-   }
-
-   .product hr{
-    margin: auto;
-    margin-left: 200px;
-    width: 90%;
+    .product h1 {
+        margin-left: 180px;
+        font-size: 40px;
+        width: 100%;
     }
 
-   .product .left{
-    margin-left: -140px;
-   }
+    .product hr {
+        margin: auto;
+        margin-left: 200px;
+        width: 90%;
+    }
 
-
-   .media .jump{
-    width: 8.8%;
-    height: 49px;
-    border-radius: 50px;
-    text-align: center;
-}
-
-.media .jump-1{
-    width: 8.8%;
-    height: 49px;
-    border-radius: 50px;
-    text-align: center;
-}
-
-.media .jump-2{
-    width: 10%;
-    height: 49px;
-    border-radius: 50px;
-    text-align: center;
-}
-
-.media .jump-3{
-    width: 8.8%;
-    height: 49px;
-    border-radius: 50px;
-    text-align: center;
-}
-
-.media .jump-4{
-    width: 8.8%;
-    height: 49px;
-    border-radius: 50px;
-    text-align: center;
-}
-
-
-
-.bo p{
-    
-    font-size: 13px;
-    line-height: 22px;
-    font-weight: 48px;
+    .product .left {
+        margin-left: -140px;
     }
 
 
-    .body p{
+    .media .jump {
+        width: 8.8%;
+        height: 49px;
+        border-radius: 50px;
+        text-align: center;
+    }
+
+    .media .jump-1 {
+        width: 8.8%;
+        height: 49px;
+        border-radius: 50px;
+        text-align: center;
+    }
+
+    .media .jump-2 {
+        width: 10%;
+        height: 49px;
+        border-radius: 50px;
+        text-align: center;
+    }
+
+    .media .jump-3 {
+        width: 8.8%;
+        height: 49px;
+        border-radius: 50px;
+        text-align: center;
+    }
+
+    .media .jump-4 {
+        width: 8.8%;
+        height: 49px;
+        border-radius: 50px;
+        text-align: center;
+    }
+
+
+
+    .bo p {
+
+        font-size: 13px;
+        line-height: 22px;
+        font-weight: 48px;
+    }
+
+
+    .body p {
         width: 100%;
         font-size: 13px;
         line-height: 22px;
@@ -527,7 +528,7 @@ footer hr{
     }
 
 
-    .circle{
+    .circle {
         width: 33%;
         border-radius: 50px;
         height: 50px;
@@ -536,8 +537,8 @@ footer hr{
         padding-top: 15px;
     }
 
-    
-.circle-1{
+
+    .circle-1 {
         width: 25%;
         border-radius: 50px;
         height: 50px;
@@ -546,7 +547,7 @@ footer hr{
         padding-top: 15px;
     }
 
-    .circle-2{
+    .circle-2 {
         width: 35%;
         border-radius: 50px;
         height: 50px;
@@ -555,7 +556,7 @@ footer hr{
         padding-top: 15px;
     }
 
-    .circle-3{
+    .circle-3 {
         width: 30%;
         border-radius: 50px;
         height: 52px;
@@ -564,7 +565,7 @@ footer hr{
         padding-top: 15px;
     }
 
-    .circle-4{
+    .circle-4 {
         width: 30%;
         border-radius: 50px;
         height: 52px;
@@ -574,108 +575,108 @@ footer hr{
     }
 
 
-    .product-1 h1{
+    .product-1 h1 {
         margin-left: 180px;
         font-size: 40px;
         width: 100%;
     }
 
-    .product-1 hr{
+    .product-1 hr {
         margin: auto;
         margin-left: 200px;
         width: 90%;
     }
 
-    .product-1 .left{
+    .product-1 .left {
         margin-left: -140px;
     }
 
-    .media .jump-9{
+    .media .jump-9 {
         width: 9%;
         height: 49px;
         border-radius: 50px;
         text-align: center;
     }
 
-    .media .jump-5{
+    .media .jump-5 {
         width: 9%;
         height: 50px;
         border-radius: 50px;
         text-align: center;
     }
 
-    .circle-9{
+    .circle-9 {
         width: 47%;
         border-radius: 50px;
         height: 49px;
         text-align: center;
     }
 
-    .circle-5{
+    .circle-5 {
         width: 30%;
         border-radius: 50px;
         height: 49px;
         text-align: center;
     }
 
-    .circle-6{
+    .circle-6 {
         width: 60%;
         border-radius: 50px;
         height: 49px;
         text-align: center;
     }
 
-    .circle-7{
+    .circle-7 {
         width: 50%;
         border-radius: 50px;
         height: 49px;
         text-align: center;
     }
 
-    .circle-8{
+    .circle-8 {
         width: 35%;
         border-radius: 50px;
         height: 49px;
         text-align: center;
     }
 
-    .footer-new p{
+    .footer-new p {
         font-size: 25px;
         margin-left: 15px;
     }
 
-    .input-group .form-control{
+    .input-group .form-control {
         height: 40px;
     }
-    
-    .footer-2{
+
+    .footer-2 {
         font-size: 15px;
     }
 
-    .btn{
+    .btn {
         height: 40px;
     }
 
-    footer{
+    footer {
         height: 56vh;
     }
 }
 
 
 
-@media(max-width: 320px){
+@media(max-width: 320px) {
 
-    .ul-bg{
+    .ul-bg {
         background-color: #003334;
         height: 40vh;
         padding: 20px;
     }
 
-    .navbar{
+    .navbar {
         line-height: 0.5;
     }
-    
-    .set{
+
+    .set {
         margin-left: -2px !important;
         background: #6ED57E;
         color: white;
@@ -684,165 +685,165 @@ footer hr{
         height: 25px;
     }
 
-    .product h1{
+    .product h1 {
         margin-left: 2px;
         font-size: 29px;
         width: 100%;
-       }
-
-       .product hr{
-        margin-left: 27px;
-        width: 80%;
-        }
-
-        .product .left{
-            margin-left: -175px;
-           }
-
-           .bo p{
-            font-size: 11.3px;
-            }
-
-            .media .jump{
-                width: 10.2%;
-                height: 47px;
-            }
-
-            .media .jump-1{
-                width: 10.5%;
-                height: 47px;
-            }
-
-            .media .jump-2{
-                width: 12.3%;
-                height: 47px;
-            }
-
-            .media .jump-3{
-                width: 10.3%;
-                height: 47px;
-            }
-
-            .media .jump-4{
-                width: 10.3%;
-                height: 47px;
-            }
-
-            .body p{
-                font-size: 11.3px;
-            }
-        
-        
-            .circle{
-                width: 29%;
-                height: 49px;
-            }
-
-            .circle-1{
-                width: 22%;
-                height: 49px;
-            }
-
-            .circle-2{
-                width: 30%;
-                height: 49px;
-            }
-
-            .circle-3{
-                width: 25%;
-                height: 49px;
-            }
-
-            .circle-4{
-                width: 25%;
-                height: 49px;
-            }
-
-            .right{
-                margin-left: 3px;
-            }
-
-            .product-1 h1{
-                margin-left: 2px;
-                font-size: 29px;
-                width: 100%;
-            }
-
-            .product-1 hr{
-                margin-left: 15px;
-                width: 90%;
-                }
-
-        .product-1 .left{
-            margin-left: -175px;
     }
 
-    .media .jump-5{
+    .product hr {
+        margin-left: 27px;
+        width: 80%;
+    }
+
+    .product .left {
+        margin-left: -175px;
+    }
+
+    .bo p {
+        font-size: 11.3px;
+    }
+
+    .media .jump {
+        width: 10.2%;
+        height: 47px;
+    }
+
+    .media .jump-1 {
+        width: 10.5%;
+        height: 47px;
+    }
+
+    .media .jump-2 {
+        width: 12.3%;
+        height: 47px;
+    }
+
+    .media .jump-3 {
+        width: 10.3%;
+        height: 47px;
+    }
+
+    .media .jump-4 {
+        width: 10.3%;
+        height: 47px;
+    }
+
+    .body p {
+        font-size: 11.3px;
+    }
+
+
+    .circle {
+        width: 29%;
+        height: 49px;
+    }
+
+    .circle-1 {
+        width: 22%;
+        height: 49px;
+    }
+
+    .circle-2 {
+        width: 30%;
+        height: 49px;
+    }
+
+    .circle-3 {
+        width: 25%;
+        height: 49px;
+    }
+
+    .circle-4 {
+        width: 25%;
+        height: 49px;
+    }
+
+    .right {
+        margin-left: 3px;
+    }
+
+    .product-1 h1 {
+        margin-left: 2px;
+        font-size: 29px;
+        width: 100%;
+    }
+
+    .product-1 hr {
+        margin-left: 15px;
+        width: 90%;
+    }
+
+    .product-1 .left {
+        margin-left: -175px;
+    }
+
+    .media .jump-5 {
         width: 10.3%;
         height: 49px;
     }
 
-    .media .jump-9{
+    .media .jump-9 {
         width: 10.3%;
         height: 47px;
     }
 
-    .circle-9{
+    .circle-9 {
         width: 40%;
         height: 47px;
     }
 
-    .circle-5{
+    .circle-5 {
         width: 25%;
         height: 47px;
     }
 
-    .circle-6{
+    .circle-6 {
         width: 50%;
         height: 47px;
     }
 
-    .circle-7{
+    .circle-7 {
         width: 45%;
         height: 47px;
     }
 
-    .circle-8{
+    .circle-8 {
         width: 30%;
         height: 47px;
     }
 
-    footer{
+    footer {
         height: 70vh;
     }
 
-    .footer-new p{
+    .footer-new p {
         font-size: 20px;
     }
 
-    .footer-2{
+    .footer-2 {
         font-size: 13px;
     }
 
-    .footer-1{
+    .footer-1 {
         font-size: 13px;
     }
 }
 
 
-@media(max-width: 375px){
-     
-    .ul-bg{
+@media(max-width: 375px) {
+
+    .ul-bg {
         background-color: #003334;
         height: 40vh;
         padding: 20px;
     }
-    
-    .navbar{
+
+    .navbar {
         line-height: 0.5;
     }
-    
-    .set{
+
+    .set {
         margin-left: -2px !important;
         background: #6ED57E;
         color: white;
@@ -851,398 +852,402 @@ footer hr{
         height: 25px;
     }
 
-    .product h1{
+    .product h1 {
         margin-left: 1px;
         font-size: 29px;
         width: 100%;
-       }
+    }
 
-       .product hr{
+    .product hr {
         margin-left: 30px;
         width: 80%;
-        }
-
-        .product .left{
-            margin-left: -160px;
-           }
-
-           .bo p{
-            font-size: 11.3px;
-            }
-
-            .media .jump{
-                width: 9.2%;
-                height: 45px;
-            }
-
-            .media .jump-1{
-                width: 9.2%;
-                height: 45px;
-            }
-
-            .media .jump-2{
-                width: 9.2%;
-                height: 45px;
-            }
-
-            .media .jump-3{
-                width: 9.2%;
-                height: 45px;
-            }
-
-            .media .jump-4{
-                width: 9.2%;
-                height: 45px;
-            }
-
-            .circle{
-                width: 13.2%;
-                height: 42px;
-                padding-top: 12px;
-            }
-
-            .circle-1{
-                width: 13%;
-                height: 42px;
-                text-align: center;
-                padding-top: 11px;
-            }
-
-            .circle-2{
-                width: 13%;
-                height: 42px;
-                padding-top: 11px;
-            }
-
-            .circle-3{
-                width: 13%;
-                height: 42px;
-                padding-top: 11px;
-                text-align: center;
-            }
-
-            .circle-4{
-                width: 13%;
-                height: 42px;
-                text-align: center;
-                padding-top: 11px;
-            }
-
-
-            .right{
-                margin-left: 20px;
-            }
-
-            .body p{
-                font-size: 11.3px;
-                padding-left: 17px;
-            }
-
-            .product-1 h1{
-                margin-left: 2px;
-                font-size: 29px;
-                width: 100%;
-            }
-
-            .product-1 hr{
-                margin-left: 15px;
-                width: 90%;
-                }
-
-        .product-1 .left{
-            margin-left: -165px;
     }
 
-    .media .jump-5{
-        width: 8%;
-        height: 42px;
-        padding-top: 12px;
+    .product .left {
+        margin-left: -160px;
     }
 
-    .media .jump{
-        width: 8%;
-        height: 42px;
-        padding-top: 12px;
+    .bo p {
+        font-size: 11.3px;
     }
 
-    .media .jump-9{
-        width: 8%;
-        height: 42px;
-        padding-top: 12px;
+    .media .jump {
+        width: 9.2%;
+        height: 45px;
     }
 
-    .media .jump-1{
-        width: 8%;
-        height: 42px;
-        padding-top: 12px;
+    .media .jump-1 {
+        width: 9.2%;
+        height: 45px;
     }
 
-    .media .jump-3{
-        width: 8%;
-        height: 42px;
-        padding-top: 12px;
+    .media .jump-2 {
+        width: 9.2%;
+        height: 45px;
     }
 
-    .media .jump-4{
-        width: 8%;
-        height: 42px;
-        padding-top: 12px;
+    .media .jump-3 {
+        width: 9.2%;
+        height: 45px;
     }
 
-    .circle-9{
-        width: 26%;
-        height: 42px;
-        padding-top: 12px;
+    .media .jump-4 {
+        width: 9.2%;
+        height: 45px;
     }
 
-    .circle-5{
-        width: 17%;
-        height: 42px;
-        padding-top: 12px;
-    }
-
-    .circle-6{
-        width: 35%;
-        height: 42px;
-        padding-top: 12px;
-    }
-
-    .circle-7{
-        width: 30%;
-        height: 42px;
-        padding-top: 12px;
-    }
-
-    .circle-8{
-        width: 20%;
-        height: 42px;
-        padding-top: 12px;
-    }
-
-    footer{
-        height: 70vh;
-    }
-
-    .footer-new p{
-        font-size: 20px;
-    }
-
-    .footer-2{
-        font-size: 13px;
-    }
-
-    .footer-1{
-        font-size: 13px;
-    }
-
-
-}
-
-
-
-@media(max-width: 425px){
-    .ul-bg{
-        background-color: #003334;
-        height: 40vh;
-        padding: 20px;
-    }
-    
-    .navbar{
-        line-height: 0.5;
-    }
-    
-    .set{
-        margin-left: -2px !important;
-        background: #6ED57E;
-        color: white;
-        font-size: 10px;
-        width: 35%;
-        height: 25px;
-    }
-
-    .product h1{
-        margin-left: 1px;
-        font-size: 29px;
-        width: 100%;
-       }
-
-       .product hr{
-        margin-left: 30px;
-        width: 80%;
-        }
-
-        .product .left{
-            margin-left: -160px;
-           }
-
-           .bo p{
-            font-size: 11.3px;
-            }
-
-            .media .jump{
-                width: 9.2%;
-                height: 45px;
-            }
-
-            .media .jump-1{
-                width: 9.2%;
-                height: 45px;
-            }
-
-            .media .jump-2{
-                width: 8.2%;
-                height: 45px;
-            }
-
-            .media .jump-3{
-                width: 9.2%;
-                height: 45px;
-            }
-
-            .media .jump-4{
-                width: 9.2%;
-                height: 45px;
-            }
-
-            .circle{
-                width: 11.5%;
-                height: 42px;
-                padding-top: 12px;
-            }
-
-            .circle-1{
-                width: 11.5%;
-                height: 42px;
-                text-align: center;
-                padding-top: 11px;
-            }
-
-            .circle-2{
-                width: 11.5%;
-                height: 42px;
-                padding-top: 11px;
-            }
-
-            .circle-3{
-                width: 11.5%;
-                height: 42px;
-                padding-top: 11px;
-                text-align: center;
-            }
-
-            .circle-4{
-                width: 11.5%;
-                height: 42px;
-                text-align: center;
-                padding-top: 11px;
-            }
-
-
-            .right{
-                margin-left: 20px;
-            }
-
-            .body p{
-                font-size: 11.3px;
-                padding-left: 17px;
-            }
-
-            .product-1 h1{
-                margin-left: 2px;
-                font-size: 29px;
-                width: 100%;
-            }
-
-            .product-1 hr{
-                margin-left: 15px;
-                width: 90%;
-                }
-
-        .product-1 .left{
-            margin-left: -165px;
-    }
-
-    .media .jump-5{
-        width: 8%;
-        height: 42px;
-        padding-top: 12px;
-    }
-
-    .media .jump{
-        width: 8%;
-        height: 42px;
-        padding-top: 12px;
-    }
-
-    .media .jump-9{
-        width: 8%;
-        height: 42px;
-        padding-top: 12px;
-    }
-
-    .media .jump-1{
-        width: 8%;
-        height: 42px;
-        padding-top: 12px;
-    }
-
-    .media .jump-3{
-        width: 8%;
-        height: 42px;
-        padding-top: 12px;
-    }
-
-    .media .jump-4{
-        width: 8%;
-        height: 42px;
-        padding-top: 12px;
-    }
-
-    .circle-9{
-        width: 20%;
-        height: 42px;
-        padding-top: 12px;
-    }
-
-    .circle-5{
+    .circle {
         width: 13.2%;
         height: 42px;
         padding-top: 12px;
     }
 
-    .circle-6{
+    .circle-1 {
+        width: 13%;
+        height: 42px;
+        text-align: center;
+        padding-top: 11px;
+    }
+
+    .circle-2 {
+        width: 13%;
+        height: 42px;
+        padding-top: 11px;
+    }
+
+    .circle-3 {
+        width: 13%;
+        height: 42px;
+        padding-top: 11px;
+        text-align: center;
+    }
+
+    .circle-4 {
+        width: 13%;
+        height: 42px;
+        text-align: center;
+        padding-top: 11px;
+    }
+
+
+    .right {
+        margin-left: 20px;
+    }
+
+    .body p {
+        font-size: 11.3px;
+        padding-left: 17px;
+    }
+
+    .product-1 h1 {
+        margin-left: 2px;
+        font-size: 29px;
+        width: 100%;
+    }
+
+    .product-1 hr {
+        margin-left: 15px;
+        width: 90%;
+    }
+
+    .product-1 .left {
+        margin-left: -165px;
+    }
+
+    .media .jump-5 {
+        width: 8%;
+        height: 42px;
+        padding-top: 12px;
+    }
+
+    .media .jump {
+        width: 8%;
+        height: 42px;
+        padding-top: 12px;
+    }
+
+    .media .jump-9 {
+        width: 8%;
+        height: 42px;
+        padding-top: 12px;
+    }
+
+    .media .jump-1 {
+        width: 8%;
+        height: 42px;
+        padding-top: 12px;
+    }
+
+    .media .jump-3 {
+        width: 8%;
+        height: 42px;
+        padding-top: 12px;
+    }
+
+    .media .jump-4 {
+        width: 8%;
+        height: 42px;
+        padding-top: 12px;
+    }
+
+    .circle-9 {
+        width: 26%;
+        height: 42px;
+        padding-top: 12px;
+    }
+
+    .circle-5 {
+        width: 17%;
+        height: 42px;
+        padding-top: 12px;
+    }
+
+    .circle-6 {
+        width: 35%;
+        height: 42px;
+        padding-top: 12px;
+    }
+
+    .circle-7 {
+        width: 30%;
+        height: 42px;
+        padding-top: 12px;
+    }
+
+    .circle-8 {
+        width: 20%;
+        height: 42px;
+        padding-top: 12px;
+    }
+
+    footer {
+        height: 70vh;
+    }
+
+    .footer-new p {
+        font-size: 20px;
+    }
+
+    .footer-2 {
+        font-size: 13px;
+    }
+
+    .footer-1 {
+        font-size: 13px;
+    }
+
+
+}
+
+
+
+@media(max-width: 425px) {
+    .ul-bg {
+        background-color: #003334;
+        height: 40vh;
+        padding: 20px;
+    }
+
+    .navbar {
+        line-height: 0.5;
+    }
+
+    .set {
+        margin-left: -2px !important;
+        background: #6ED57E;
+        color: white;
+        font-size: 10px;
+        width: 35%;
+        height: 25px;
+    }
+
+    .product h1 {
+        margin-left: 1px;
+        font-size: 29px;
+        width: 100%;
+    }
+
+    .product hr {
+        margin-left: 30px;
+        width: 80%;
+    }
+
+    .product .left {
+        margin-left: -160px;
+    }
+
+    .bo p {
+        font-size: 11.3px;
+    }
+
+    .media .jump {
+        width: 9.2%;
+        height: 45px;
+    }
+
+    .media .jump-1 {
+        width: 9.2%;
+        height: 45px;
+    }
+
+    .media .jump-2 {
+        width: 8.2%;
+        height: 45px;
+    }
+
+    .media .jump-3 {
+        width: 9.2%;
+        height: 45px;
+    }
+
+    .media .jump-4 {
+        width: 9.2%;
+        height: 45px;
+    }
+
+    .circle {
+        width: 12.5%;
+        height: 47px;
+        padding-left: 15px;
+        padding-top: 14px;
+    }
+
+    .circle-1 {
+        width: 12.5%;
+        height: 47px;
+        padding-right: 20px;
+        padding-top: 14px;
+    }
+
+    .circle-2 {
+        width: 12.5%;
+        height: 47px;
+        padding-right: 20px;
+        padding-top: 14px;
+    }
+
+    .circle-3 {
+        width: 12.5%;
+        height: 47px;
+        padding-right: 20px;
+        padding-top: 14px;
+    }
+
+    .circle-4 {
+        width: 12.5%;
+        height: 47px;
+        padding-right: 20px;
+        padding-top: 14px;
+    }
+
+
+    .right {
+        margin-left: 20px;
+        margin-top: 90px;
+    }
+
+    .body p {
+        font-size: 11.3px;
+        padding-left: 17px;
+    }
+
+    .product-1 h1 {
+        margin-left: 2px;
+        font-size: 29px;
+        width: 100%;
+        padding-top: -190px;
+    }
+
+    .product-1 hr {
+        margin-left: 15px;
+        width: 90%;
+    }
+
+    .product-1 .left {
+        margin-left: -165px;
+        margin-top: 50px;
+    }
+
+    .media .jump-5 {
+        width: 8%;
+        height: 42px;
+        padding-top: 12px;
+    }
+
+    .media .jump {
+        width: 8%;
+        height: 42px;
+        padding-top: 12px;
+    }
+
+    .media .jump-9 {
+        width: 8%;
+        height: 42px;
+        padding-top: 12px;
+    }
+
+    .media .jump-1 {
+        width: 8%;
+        height: 42px;
+        padding-top: 12px;
+    }
+
+    .media .jump-3 {
+        width: 8%;
+        height: 42px;
+        padding-top: 12px;
+    }
+
+    .media .jump-4 {
+        width: 8%;
+        height: 42px;
+        padding-top: 12px;
+    }
+
+    .circle-9 {
+        width: 20%;
+        height: 42px;
+        padding-top: 12px;
+    }
+
+    .circle-5 {
+        width: 13.2%;
+        height: 42px;
+        padding-top: 12px;
+    }
+
+    .circle-6 {
         width: 25%;
         height: 42px;
         padding-top: 12px;
     }
 
-    .circle-7{
+    .circle-7 {
         width: 23%;
         height: 42px;
         padding-top: 12px;
     }
 
-    .circle-8{
+    .circle-8 {
         width: 13.7%;
         height: 42px;
         padding-top: 12px;
     }
 
-    footer{
+    footer {
         height: 70vh;
     }
 
-    .footer-new p{
+    .footer-new p {
         font-size: 20px;
     }
 
-    .footer-2{
+    .footer-2 {
         font-size: 13px;
     }
 
-    .footer-1{
+    .footer-1 {
         font-size: 13px;
     }
 
 }
-
